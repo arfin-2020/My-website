@@ -1,0 +1,63 @@
+/* h1 {
+            color: #f80404;
+            background-color: rgb(119, 201, 201);
+            font-family: 'Courier New', Courier, monospace;
+            font-weight: 20000;
+            font-size: 30px;
+            height: 50px;
+            width: 50%;
+        }
+         */
+
+.friends {
+    color: rgb(6, 6, 238);
+}
+
+img {
+    width: 50%;
+}
+
+.romantic {
+    color: rgb(48, 245, 8);
+}
+
+.mydiv {
+    color: red;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border: 3px solid rgb(6, 6, 238);
+    background-color: rgb(204, 200, 194);
+    padding: 10px 0px 10px;
+    width: 50%;
+}
+
+.mydiv2 {
+    border: 5px solid rgb(8, 4, 238);
+    width: 50%;
+    padding: 10px;
+}
+
+.img1 {
+    border: 5px solid red;
+    text-align: center;
+    margin-left: 100px;
+}
+
+p {
+    border: 5px solid rebeccapurple;
+    padding: 50px;
+    margin: 10px;
+}
+
+.div1 {
+    font-size: 10px;
+    color: rgba(2, 6, 252, 0.952);
+    border: 3px solid purple;
+    display: inline-block;
+    border-radius: 20px;
+    margin: 1px;
+    padding: 20px;
+    width: 30%;
+    text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
